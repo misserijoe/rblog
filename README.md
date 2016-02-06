@@ -4,7 +4,7 @@ blog
 
 First Ruby on Rails application
 
-*** Creats a basic RoR app. ***
+*** Creates a basic RoR app. ***
 
 ------------------------------------------------
 
