@@ -1,10 +1,11 @@
 <h1>New Article</h1>
 
-<%= form_for :article, url: articles_path do|f| %>
+<%= render 'form' %>
+<!-- <%= form_for :article, url: articles_path do|f| %>
 
-<!-- Error validations:
+Error validations:
 *** Checking if there are any errors with @article.errors.any?, 
-*** Show a list of all errors with @article.errors.full_messages.-->
+*** Show a list of all errors with @article.errors.full_messages.
   <% if @article.errors.any? %>
     <div id="error_explanation">
       <h2>
@@ -19,19 +20,19 @@
     <% end %>
 
   <p>
-  	<%= f.label :title %><br>
-  	<%= f.text_field :title %>
+    <%= f.label :title %><br>
+    <%= f.text_field :title %>
   </p>
 
   <p>
-  	<%= f.label :text %><br>
-  	<%= f.text_area :text %>
+    <%= f.label :text %><br>
+    <%= f.text_area :text %>
   </p>
 
   <p>
-  	<%= f.submit %>
+    <%= f.submit %>
   </p>
 
-<% end %>
+<% end %> -->
 
 <%= link_to 'Back', articles_path %>

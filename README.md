@@ -35,4 +35,26 @@ WHAT'S INCLUDED:
 
 -  Updating Articles
 
+-  Used partials to clean up duplication in views
+
+-  Deleted articles
+
+-  Generated a second model
+
+-  Associating multiple models
+
+-  Adding a Route for Comments
+
+-  Generated a new Controller
+
+-  Refactored and rendered partial collections
+
+-  Rendered a partial form
+
+-  Comment deletion
+
+-  Deleted associated objects
+
+-  Basic authentication
+
 * MORE COMMITS AND UPDATES TO COME... *
