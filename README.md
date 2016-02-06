@@ -4,7 +4,7 @@ blog
 
 First Ruby on Rails application
 
-*** 60% through creating this basic RoR app. ***
+*** Creats a basic RoR app. ***
 
 ------------------------------------------------
 
@@ -56,5 +56,3 @@ WHAT'S INCLUDED:
 -  Deleted associated objects
 
 -  Basic authentication
-
-* MORE COMMITS AND UPDATES TO COME... *
