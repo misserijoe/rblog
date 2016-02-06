@@ -33,5 +33,6 @@ WHAT'S INCLUDED:
 
 -  Added error validations
 
+-  Updating Articles
 
-* MORE COMMITS AND UPDATES TO COME...
+* MORE COMMITS AND UPDATES TO COME... *
