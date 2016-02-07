@@ -8,3 +8,8 @@
 	<strong>Comment:</strong>
 	<%= comment.body %>
 </p>
+
+<!-- Deletes spam comments. Implemented a link in the view and a destroy action in the CommentsController. -->
+<p>
+	<%= link_to 'Destroy Comment', [comment.article, comment], method: :delete, data: { confirm: 'Are you sure?' } %>
+</p>
