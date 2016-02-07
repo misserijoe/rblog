@@ -8,6 +8,11 @@ First Ruby on Rails application
 
 ------------------------------------------------
 
+RUBY VERSION:   ruby 2.2.3p173
+
+RAILS VERSION:  Rails 4.2.5
+
+
 WHAT'S INCLUDED:
 
 
